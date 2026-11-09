@@ -3,8 +3,8 @@ import mysql.connector
 # Ajusta usuario y contraseña a tu MySQL
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'Estephania',
-    'password': 'fanny1234',
+    'user': 'Tania',
+    'password': 'root',
     'database': 'pizzeria',
 }
 
